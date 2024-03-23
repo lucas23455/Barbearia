@@ -39,5 +39,3 @@ https://barbearia-pi-two.vercel.app/
 
 
 
-
-https://barbearia-pi-two.vercel.app/
